@@ -3,6 +3,7 @@ Mission Overview
 The mission/activity was completed using Killercoda, an online platform that provides a virtual Linux environment for hands-on practice. The main goal of the mission was to become familiar with the Linux command line and learn how to navigate and manage files and directories using basic Linux commands.
 
 Objectives
+
 Learn how to access and use a Linux terminal.
 Practice basic Linux commands.
 Navigate through directories using the command line.
