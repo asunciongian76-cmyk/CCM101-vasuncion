@@ -1,3 +1,7 @@
+Cloud Computing Portfolio 
+
+My name is Vincent Gian B. Asuncion, and I am a Bachelor of Science in Information Technology student at the University of Eastern Pangasinan. As part of my Cloud Computing course, I am learning how to use Linux environments through KillerCoda and manage my laboratory activities using GitHub. I am interested in developing my technical skills and gaining practical experience with cloud computing technologies.
+
 Mission Overview
 
 The mission/activity was completed using Killercoda, an online platform that provides a virtual Linux environment for hands-on practice. The main goal of the mission was to become familiar with the Linux command line and learn how to navigate and manage files and directories using basic Linux commands.
