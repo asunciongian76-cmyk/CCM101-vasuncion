@@ -1,9 +1,3 @@
-root@ubuntu:~$ uname r
-uname: extra operand 'r'
-Try 'uname --help' for more information.
-root@ubuntu:~$ uname - r
-uname: extra operand '-'
-Try 'uname --help' for more information.
 root@ubuntu:~$ uname -r
 6.8.0-136-generic
 root@ubuntu:~$ cat /etc/os-release
@@ -20,8 +14,6 @@ BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
 PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
 UBUNTU_CODENAME=noble
 LOGO=ubuntu-logo
-root@ubuntu:~$ uname -r
-6.8.0-136-generic
 root@ubuntu:~$ lscpu
 Architecture:                x86_64
   CPU op-mode(s):            32-bit, 64-bit
@@ -40,7 +32,7 @@ Vendor ID:                   GenuineIntel
     Core(s) per socket:      1
     Socket(s):               1
     Stepping:                1
-    BogoMIPS:                7391.99
+    BogoMIPS:                7008.00
     Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx rdtscp 
                              lm constant_tsc rep_good nopl xtopology cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popc
                              nt tsc_deadline_timer aes xsave avx hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp tsc_adjust xsaveopt arat
@@ -77,7 +69,7 @@ Vulnerabilities:
   Vmscape:                   Not affected
 root@ubuntu:~$ free -h
                total        used        free      shared  buff/cache   available
-Mem:           1.9Gi       417Mi       865Mi       1.1Mi       787Mi       1.5Gi
+Mem:           1.9Gi       407Mi       877Mi       1.1Mi       786Mi       1.5Gi
 Swap:          1.0Gi          0B       1.0Gi
 root@ubuntu:~$ df -h
 Filesystem      Size  Used Avail Use% Mounted on
